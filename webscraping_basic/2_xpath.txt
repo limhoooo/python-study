@@ -1,0 +1,6 @@
+어떤 html 태그를 갖고올건지 지칭해주는 방법?
+
+javascript element DOM 잡는 방식인듯
+
+//*[@id="tw-source-text-ta"]
+/html/body/div[7]/div/div[10]/div[1]/div/div[2]/div[2]/div/div/div[1]/div/div/div[1]/g-expandable-container/div/div/div[2]/div[3]
